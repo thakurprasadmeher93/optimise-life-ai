@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+reportlab
+openpyxl
+supabase
+cryptography
